@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/advocate-sharma/static/css/main.e655f62c.css",
-    "main.js": "/advocate-sharma/static/js/main.87389bcd.js",
+    "main.js": "/advocate-sharma/static/js/main.86408753.js",
     "static/js/453.f6cc1c52.chunk.js": "/advocate-sharma/static/js/453.f6cc1c52.chunk.js",
     "index.html": "/advocate-sharma/index.html",
     "main.e655f62c.css.map": "/advocate-sharma/static/css/main.e655f62c.css.map",
-    "main.87389bcd.js.map": "/advocate-sharma/static/js/main.87389bcd.js.map",
+    "main.86408753.js.map": "/advocate-sharma/static/js/main.86408753.js.map",
     "453.f6cc1c52.chunk.js.map": "/advocate-sharma/static/js/453.f6cc1c52.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e655f62c.css",
-    "static/js/main.87389bcd.js"
+    "static/js/main.86408753.js"
   ]
 }
